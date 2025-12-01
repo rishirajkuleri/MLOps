@@ -88,7 +88,7 @@ Efficient similarity search using: faiss.IndexFlatL2
 
 ---
 
-## 🛠️ How to Run
+##  How to Run
 
 ### 1. Install Dependencies
 ```bash
